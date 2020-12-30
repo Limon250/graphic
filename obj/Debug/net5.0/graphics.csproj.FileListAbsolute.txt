@@ -1,0 +1,16 @@
+D:\Programms\csharp\graphics\obj\Debug\net5.0\graphics.csprojAssemblyReference.cache
+D:\Programms\csharp\graphics\obj\Debug\net5.0\graphics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programms\csharp\graphics\obj\Debug\net5.0\graphics.AssemblyInfoInputs.cache
+D:\Programms\csharp\graphics\obj\Debug\net5.0\graphics.AssemblyInfo.cs
+D:\Programms\csharp\graphics\obj\Debug\net5.0\graphics.csproj.CoreCompileInputs.cache
+D:\Programms\csharp\graphics\bin\Debug\net5.0\graphics.exe
+D:\Programms\csharp\graphics\bin\Debug\net5.0\graphics.deps.json
+D:\Programms\csharp\graphics\bin\Debug\net5.0\graphics.runtimeconfig.json
+D:\Programms\csharp\graphics\bin\Debug\net5.0\graphics.runtimeconfig.dev.json
+D:\Programms\csharp\graphics\bin\Debug\net5.0\graphics.dll
+D:\Programms\csharp\graphics\bin\Debug\net5.0\ref\graphics.dll
+D:\Programms\csharp\graphics\bin\Debug\net5.0\graphics.pdb
+D:\Programms\csharp\graphics\obj\Debug\net5.0\graphics.dll
+D:\Programms\csharp\graphics\obj\Debug\net5.0\ref\graphics.dll
+D:\Programms\csharp\graphics\obj\Debug\net5.0\graphics.pdb
+D:\Programms\csharp\graphics\obj\Debug\net5.0\graphics.genruntimeconfig.cache
